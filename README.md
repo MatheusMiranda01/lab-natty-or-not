@@ -1,51 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# DevIA me apresentar assim...
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A criação do DevIA surgiu a partir de um projeto de portifólio de um bootcamp da [DIO](https://web.dio.me/track/criando-prompts-inteligentes) que me instigou a realizar esse vídeo usando as ferramentas de dentro e explorar as demais formas de usar os algoritmos disponíveis na internet.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chatgpt.com/?model=gpt-4o)
+[Vidnoz IA](https://aiapp-pt.vidnoz.com/video/index.html)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei a criação de um roteiro a partir do [ChatGPT](https://chatgpt.com/?model=gpt-4o), na solicitação pedi para que ele apresentasse um perfil similar ao meu, desenvolvedor em início de carreira ansioso em aprender e adquirir mais experiências.
+
+(Por razões de prazo e limitação da ferramenta Vidnoz, não consegui uma forma de integrar meu currículo ao roteiro do vídeo apesar de ter feito parte do meu planejamento inicial).
+
+Com o roteiro pronto, usei a ferramenta [Vidnoz IA](https://aiapp-pt.vidnoz.com/video/index.html), e com o template básico criei o vídeo com um avatar virtual.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/user-attachments/assets/7f9e22d7-654a-4138-97b4-eefb3aba055c
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
